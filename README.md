@@ -2,11 +2,11 @@
 
 Here are some ideas to get you started:
 <br>
--  I’m currently working on Web Development 👨🏼‍🎓
+-  I’m currently working on FullStack Web Development 
 -  I’m currently learning Angular
 -  Ask me about **Technology and Personal Development**
 -  Fun fact: *Playing chess* ♔<br>
-✉️ **bassdiaw.study@gmail.com**
+-  ✉️ :  **bassdiaw.study@gmail.com**
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...-->
 
