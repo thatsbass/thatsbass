@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=thatsbass&icon=0&color=7)](https://visitcount.itsvg.in)
 
-  ## Buy me a coffee 
+  ## Buy me a coffee ☕
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thatsbass) 
 
   
