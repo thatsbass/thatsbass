@@ -5,7 +5,7 @@ Bachir
 <h1 align="left">Hi 👋, I'm Bassirou Diaw</h1>
 <h3 align="left">A passionate Full Stack developer from Senegal</h3>
 
-- I’m currently working on **Debt tracking store**
+- I’m currently working on **Debt tracking store in Academy Sonatel**
 
 - I’m currently learning **Typescript & PHP**
 
@@ -37,6 +37,3 @@ Bachir
 
 ###
 
-<div>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thatsbass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
