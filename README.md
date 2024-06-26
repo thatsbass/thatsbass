@@ -2,8 +2,8 @@ Bachir
 
 
 
-<h1 align="center">Hi 👋, I'm Bassirou Diaw</h1>
-<h3 align="center">A passionate Full Stack developer from Senegal</h3>
+<h1 align="left">Hi 👋, I'm Bassirou Diaw</h1>
+<h3 align="left">A passionate Full Stack developer from Senegal</h3>
 
 - I’m currently working on **Debt tracking store**
 
