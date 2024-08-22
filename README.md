@@ -5,7 +5,7 @@ Bachir
 <h1 align="left">Hi 👋🏽, I'm Bassirou Diaw</h1>
 <h3 align="left">Software Engineer | Digital nomad</h3>
 
- I’m currently working on **Social Network in Academy Sonatel**</br>
+ I'm currently working on **the social network at ECSA**</br>
  I’m currently learning **Typescript , NodeJS+ExpressJS**</br>
  📧 **bassdiaw.study@gmail.com**</br>
 
