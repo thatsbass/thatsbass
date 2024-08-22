@@ -3,11 +3,11 @@ Bachir
 
 
 <h1 align="left">Hi 👋, I'm Bassirou Diaw</h1>
-<h3 align="left">A passionate Full Stack developer from Senegal</h3>
+<h3 align="left">Software Engineer | Digital nomad</h3>
 
-- I’m currently working on **Debt tracking store in Academy Sonatel**
+- I’m currently working on **Social Network in Academy Sonatel**
 
-- I’m currently learning **Typescript & PHP**
+- I’m currently learning **Typescript , NodeJS+ExpressJS**
 
 - How to reach me **bassdiaw.study@gmail.com**
 
