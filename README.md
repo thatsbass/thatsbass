@@ -6,7 +6,9 @@ Bachir
 <h3 align="left">Software Engineer | Digital nomad</h3>
 
  I’m currently working on **Social Network in Academy Sonatel**
+ 
  I’m currently learning **Typescript , NodeJS+ExpressJS**
+ 
  📧 **bassdiaw.study@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
