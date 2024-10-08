@@ -1,6 +1,8 @@
 # Bassirou Diaw
 ### I'am Software Engineer
 
+![github-header-image](https://github.com/user-attachments/assets/fdf41bb2-ac6d-474b-a6d6-d7a351b2ebbd)
+
 
 
  <a aligh="left" href="mailto:bassdiaw.study@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/thatsbass" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/thatsbass" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://discord.com/thatsbass" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/discord.svg" alt="Discord" width="22" height="22" /></a> <a aligh="left" href="http://instagram.com/thatsbass" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/instagram.svg" alt="Instagram" width="22" height="22" /></a>  
