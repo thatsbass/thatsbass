@@ -1,4 +1,4 @@
-# Gōsuto
+# ゴーストさん
 ### I'am Software Engineer
 
 
