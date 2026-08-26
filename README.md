@@ -6,10 +6,8 @@ I build scalable web applications, APIs and AI-powered systems with a focus on c
 
 # Core Stack
 
-**Frontend :** React, Next.js, Angular, TypeScript, Tailwind CSS
-
-**Backend :** Node.js, NestJS, Python, FastAPI, Java, Spring Boot, GO
-
+**Frontend :** React, Next.js, Angular, TypeScript, Tailwind CSS </br>
+**Backend :** Node.js, NestJS, Python, FastAPI, Java, Spring Boot, GO </br>
 **Data & Infrastructure :** PostgreSQL, Redis, Docker, GitHub Actions, REST APIs, MCP
 
 # What I’ve Built
