@@ -2,7 +2,7 @@
 
 **Software Engineer**
 
-I build scalable web applications, APIs and AI-powered systems with a focus on clean architecture, performance and developer experience.
+I build scalable web applications, APIs and AI-powered systems with a focus on clean architecture, </br>performance and developer experience.
 
 # Core Stack
 
