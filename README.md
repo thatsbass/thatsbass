@@ -22,5 +22,3 @@ I build scalable web applications, APIs and AI-powered systems with a focus on c
 # Key Interests
 
 Software architecture, backend design, AI agents, custom APIs, distributed setups, and dev tools.
-
-[LinkedIn](https://linkedin.com/in/thatsbass) • [Bluesky](https://bsky.app/profile/thatsbass.bsky.social) • [Portfolio](https://github.com/) • [Email](mailto:thatsbass.dev@gmail.com) 
