@@ -4,7 +4,7 @@
 
 I build scalable web applications, APIs and AI-powered systems with a focus on clean architecture, performance and developer experience.
 
-### Core Stack
+# Core Stack
 
 **Frontend** </br>
 React, Next.js, Angular, TypeScript, Tailwind CSS
