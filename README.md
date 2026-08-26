@@ -15,8 +15,6 @@ Node.js, NestJS, Python, FastAPI, Java, Spring Boot
 **Data & Infrastructure** </br>
 PostgreSQL, Redis, Docker, GitHub Actions, REST APIs, MCP
 
----
-
 ### What I’ve Built
 
 * **Statia:** An AI platform designed to make exploring and analyzing ANSD statistical data effortless via MCP.
