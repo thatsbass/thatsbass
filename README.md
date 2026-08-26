@@ -6,22 +6,17 @@ I build scalable web applications, APIs and AI-powered systems with a focus on c
 
 # Core Stack
 
-**Frontend** </br>
-React, Next.js, Angular, TypeScript, Tailwind CSS
+**Frontend :** React, Next.js, Angular, TypeScript, Tailwind CSS
 
-**Backend** </br>
-Node.js, NestJS, Python, FastAPI, Java, Spring Boot
+**Backend :** Node.js, NestJS, Python, FastAPI, Java, Spring Boot, GO
 
-**Data & Infrastructure** </br>
-PostgreSQL, Redis, Docker, GitHub Actions, REST APIs, MCP
+**Data & Infrastructure :** PostgreSQL, Redis, Docker, GitHub Actions, REST APIs, MCP
 
 # What I’ve Built
 
 * [Statia](#) An AI platform designed to make exploring and analyzing ANSD statistical data effortless via MCP.
 * [Veil](github.com/thatsbass/veil) A smart LLM gateway to route, monitor, and optimize AI API consumption.
 * [EventEase](github.com/thatsbass/eventease-api) High-throughput ticketing and event management backend services.
-
-
 
 
 # Key Interests
