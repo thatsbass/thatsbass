@@ -4,26 +4,30 @@
 
 I build scalable web applications, APIs and AI-powered systems with a focus on clean architecture, performance and developer experience.
 
-### Stack
+### Core Stack
 
-**Frontend**
+**Frontend** </br>
 React, Next.js, Angular, TypeScript, Tailwind CSS
 
-**Backend**
+**Backend** </br>
 Node.js, NestJS, Python, FastAPI, Java, Spring Boot
 
-**Data & Infrastructure**
+**Data & Infrastructure** </br>
 PostgreSQL, Redis, Docker, GitHub Actions, REST APIs, MCP
 
-### Featured Work
+---
 
-* **Statia** — AI-powered platform for exploring and analyzing ANSD statistical data using MCP.
-* **Veil** — LLM Gateway for routing, controlling and optimizing AI API usage.
-* **EventEase** — Scalable ticketing and event management API.
-* **DGPSN** — Administrative and budget management platform.
+### What I’ve Built
 
-### Focus
+* **Statia:** An AI platform designed to make exploring and analyzing ANSD statistical data effortless via MCP.
+* **Veil:** A smart LLM gateway to route, monitor, and optimize AI API consumption.
+* **EventEase:** High-throughput ticketing and event management backend services.
+* **DGPSN:** A central administration and budget tracking platform built for public sector operations.
 
-Software architecture, backend engineering, AI agents, APIs, distributed systems and developer tooling.
+---
+
+### Key Interests
+
+Software architecture, backend design, AI agents, custom APIs, distributed setups, and dev tools.
 
 [LinkedIn](https://linkedin.com/in/thatsbass) • [Bluesky](https://bsky.app/profile/thatsbass.bsky.social) • [Portfolio](https://github.com/) • [Email](mailto:thatsbass.dev@gmail.com) 
