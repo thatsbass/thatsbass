@@ -15,8 +15,8 @@ I build scalable web applications, APIs and AI-powered systems with a focus on c
 # What I’ve Built
 
 * [Statia](#) An AI platform designed to make exploring and analyzing ANSD statistical data effortless via MCP.
-* [Veil](github.com/thatsbass/veil) A smart LLM gateway to route, monitor, and optimize AI API consumption.
-* [EventEase](github.com/thatsbass/eventease-api) High-throughput ticketing and event management backend services.
+* [Veil](https://github.com/thatsbass/veil) A smart LLM gateway to route, monitor, and optimize AI API consumption.
+* [EventEase](https://github.com/thatsbass/eventease-api) High-throughput ticketing and event management backend services.
 
 
 # Key Interests
