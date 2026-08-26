@@ -8,7 +8,7 @@ I build scalable web applications, APIs and AI-powered systems with a focus on c
 
 **Frontend :** React, Next.js, Angular, TypeScript, Tailwind CSS 
 
-**Backend :** Node.js, NestJS, Python, FastAPI, Java, Spring Boot, GO 
+**Backend :** Node.js, Fastify, Python, FastAPI, Java, Spring Boot, GO 
 
 **Data & Infrastructure :** PostgreSQL, Redis, Docker, GitHub Actions, REST APIs, MCP
 
