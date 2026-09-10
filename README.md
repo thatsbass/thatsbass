@@ -2,25 +2,21 @@
 
 **Software Engineer**
 
-I build scalable web applications, APIs and AI-powered systems with a focus on clean architecture, </br>performance and developer experience.
+I build scalable web applications, APIs, and AI-powered systems with a focus on clean architecture, </br>performance, and developer experience.
 
-# Core Stack
+## Core Stack
 
-**Frontend :** HTML/CSS, React, Angular
+* **Languages** · TypeScript, Go, Java, PHP, SQL, HTML/CSS
+* **Frameworks** · NestJS, Spring Boot, Laravel, FastAPI | React, Angular
+* **Backend & Infra** · Docker, AWS, Redis, RabbitMQ, REST APIs, CI/CD
+* **AI & Automation** · MCP, RAG, AI Agents, Automation
 
-**Backend :** PHP, Java , GO, Node.js, SQL(PostgreSQL)
+## Featured Projects
 
-**AI :** MCP, RAG, Automation
+* **[Statia](#)** · AI platform to explore and analyze ANSD statistical data via MCP.
+* **[Veil](https://github.com/thatsbass/veil)** · Smart LLM gateway to route, monitor, and optimize AI API consumption.
+* **[EventEase](https://github.com/thatsbass/eventease-api)** · High-throughput ticketing and event management backend services.
 
-**Cloud & Tools:** Redis, Docker, GitHub/Gitlab Actions, REST APIs, RabbitMQ, AWS
-
-# What I’ve Built
-
-* [Statia](#) An AI platform designed to make exploring and analyzing ANSD statistical data effortless via MCP.
-* [Veil](https://github.com/thatsbass/veil) A smart LLM gateway to route, monitor, and optimize AI API consumption.
-* [EventEase](https://github.com/thatsbass/eventease-api) High-throughput ticketing and event management backend services.
-
-
-# Key Interests
+## Focus Area
 
 Software architecture, backend design, AI agents, custom APIs, distributed setups, and dev tools.
