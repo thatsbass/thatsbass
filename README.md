@@ -8,9 +8,11 @@ I build scalable web applications, APIs and AI-powered systems with a focus on c
 
 **Frontend :** HTML/CSS, React, Angular
 
-**Backend :** PHP, Java , GO, Node.js
+**Backend :** PHP, Java , GO, Node.js, SQL(PostgreSQL)
 
-**Data & Infrastructure :** PostgreSQL, Redis, Docker, GitHub/Gitlab Actions, REST APIs, MCP
+**AI :** MCP, RAG, Automation
+
+**Cloud & Tools:** Redis, Docker, GitHub/Gitlab Actions, REST APIs, RabbitMQ, AWS
 
 # What I’ve Built
 
