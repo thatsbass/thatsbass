@@ -6,8 +6,8 @@ I build scalable web applications, APIs, and AI-powered systems with a focus on 
 
 ## Core Stack
 
-* **Languages** · TypeScript, Go, Java, PHP, SQL, HTML/CSS
-* **Frameworks** · NestJS, Spring Boot, Laravel, FastAPI | React, Angular
+* **Languages** · Python, Go, Java, TypeScript, SQL, HTML/CSS
+* **Frameworks** · FastAPI, Spring Boot, Laravel | React, Angular
 * **Backend & Infra** · Docker, AWS, Redis, RabbitMQ, REST APIs, CI/CD
 * **AI & Automation** · MCP, RAG, AI Agents, Automation
 
