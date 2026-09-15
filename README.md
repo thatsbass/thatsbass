@@ -8,7 +8,7 @@ I build scalable web applications, APIs, and AI-powered systems with a focus on 
 
 * **Languages** · Python, Go, Java, TypeScript, SQL, HTML/CSS
 * **Frameworks** · FastAPI, Spring Boot, Laravel | React, Angular
-* **Backend & Infra** · Docker, AWS, Redis, RabbitMQ, REST APIs, CI/CD
+* **Backend & Infra** · Docker, AWS, Redis, Kafka, CI/CD
 * **AI & Automation** · MCP, RAG, AI Agents, Automation
 
 ## Featured Projects
